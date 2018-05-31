@@ -5,3 +5,4 @@
 ![](https://github.com/vikki565656/hw9/blob/master/%D1%86%D0%B32.PNG)
 Использовал регулярное выражение: Нов.?городц?[ауюъѣ] Всего упоминаний Новгорода нашел: 57
 ![](https://github.com/vikki565656/hw9/blob/master/%D1%86%D0%B33.PNG)
+
